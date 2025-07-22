@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+.view{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.pp{
+    color: gray;
+}
+.bl{
+    font-size: 20px;
+    font-weight: 500;
+}
+.but{
+    color: white;
+    background-color: #3BB96D;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-weight: 700;
+}
+.fle{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 65px;
+    color: #0D233B;
+}
+.left{
+    padding: 50px 110px;
+}
+.otolar{
+    background-color: #F1F5F8;
+    display: flex;
+    align-items: center;
+    padding: 10px 200px;
+    line-height: 40px;
+}
+.butt{
+    color: white;
+    background-color: #3BB96D;
+    border: none;
+    padding: 10px 65px;
+    border-radius: 30px;
+    font-weight: 700;
+}
+.obratit{
+    padding: 100px 200px;
+    button{
+        margin-top: 30px;
+    }
+}
+.nazvanie{
+    display: flex;
+    margin-top: 30px;
+    gap: 30px;
+}
+.xat{
+    width: 40px; 
+    height: 3px;
+    background-color: #3BB96D;
+}
+.zaga{
+    line-height: 30px;
+}
+.spetsialist{
+    padding: 100px 200px;
+}
+.doktor{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 30px   ;
+}
+.ivan{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+}
+.obwiy{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    gap: 30px;
+}
+.priyom{
+    padding: 100px 200px;
+}
+.size{
+    font-size: 100px;
+    font-weight: 900;
+    color: #3BB96D;
+}
+.uznat{
+    position: relative;
+    background-color: white;
+    top: -50px;
+    left: 10px;
+    box-shadow: 1px 1px 20px rgba(128, 128, 128, 0.673);
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+    line-height: 30px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.grin{
+    color: #3BB96D;
+}
+a{
+    color: #3BB96D ;
+}
+.pats , .zvezd{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+.vse{
+    width: 500px;
+    padding: 30px;
+    border: 1px solid #C4CDD4;
+    border-radius: 10px;
+}
+.pp{
+    padding-bottom: 20px;
+}
+.vrach{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.dd{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.otziv{
+    padding: 50px 200px;
+}
+.but-r{
+    border: none;
+    background-color: white;
+    padding: 15px 50px;
+    border: 1px solid #3BB96D;
+    color: #3BB96D;
+    font-weight: 700;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: 470px;
+}
+.info{
+    display: flex;
+    align-items: center;
+    background-color: #272727;
+    width: 1140px;
+    color: white;
+    padding-left: 40px;
+    border-radius: 60px;
+    margin: auto;
+    margin-bottom: 100px;
+    button{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    p{
+        margin-top: 10px;
+    }
+}
+.doc{
+   border-bottom-right-radius: 60px;
+   margin-top: 5px;
+}
+input{
+    background-color: #F1F5F8;
+    border: none;
+    outline: none;
+    padding: 10px 50px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.fio{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+footer{
+    background-color: #3BB96D;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 150px;
+    gap: 70px;
+    line-height: 30px;
+}
